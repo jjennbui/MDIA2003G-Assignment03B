@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+img{
+  width: 100%;
+}
+
+
+
+
+div,
+main,
+section,
+footer,
+main,
+header {
+  outline: 1px solid grey;
+  min-height: 1rem;
+  padding: 1rem;
+
+}
+
+.row{
+  display: grid;
+  row-gap: 1rem;
+  
+}
+
+.col{
+  position: relative;
+  background-color: bisque;
+}
+
+/* Small only */
+@media screen and (max-width: 39.9375em) {}
+
+/* Medium and up */
+@media screen and (min-width: 40em) {}
+.
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {}
+
+/* Large and up */
+@media screen and (min-width: 64em) {}
+
+/* Large only */
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {}

@@ -1,0 +1,49 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+img{
+  width: 100%;
+}
+
+
+
+
+div,
+main,
+section,
+footer,
+main,
+header {
+  outline: 1px solid grey;
+  min-height: 1rem;
+  padding: 1rem;
+
+}
+
+.row{
+  display: grid;
+  row-gap: 1rem;
+  color: blue;
+}
+
+.col{
+  position: relative;
+  background-color: bisque;
+}
