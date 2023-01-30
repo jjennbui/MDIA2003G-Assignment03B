@@ -122,7 +122,7 @@ img {
   }
 
   .m-row-3 {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
 
   .m-row-4 {
@@ -146,7 +146,7 @@ img {
   }
 
   .tabs {
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(5, 1fr);
   }
 }
 
@@ -165,19 +165,7 @@ img {
   }
 
   .tabs {
-    grid-template-columns: repeat(6, 1fr);
-  }
-
-  .m-row-2{
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  .m-row-3{
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  .m-row-4 {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(5, 1fr);
   }
 }
 

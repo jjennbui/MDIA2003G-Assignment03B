@@ -172,13 +172,7 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .m-row-3{
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  .m-row-4 {
-    grid-template-columns: repeat(2, 1fr);
-  }
+  .m-row-3
 }
 
 /* Large and up */
