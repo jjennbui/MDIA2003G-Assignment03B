@@ -96,6 +96,9 @@ header {
   background-color: bisque;
 }
 
+.tab {
+  background-color: beige;
+}
 
 .text {
   text-align: center;
@@ -130,15 +133,25 @@ img {
 
 /* Small only */
 @media screen and (max-width: 39.9375em) {
+  .tab {
+    display: none;
+  }
 
-  
+  .SECTION-FIVE {
+    display: none;
+  }
 
+  .section-six {
+    display: none;
+  }
 
   .main-image {
     display: none;
   }
 
-
+  .m-row-6 {
+    grid-template-columns: repeat(3, 1fr);
+  }
 
   .m-row-7 {
     grid-template-columns: repeat(1, 1fr);

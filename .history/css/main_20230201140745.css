@@ -96,6 +96,9 @@ header {
   background-color: bisque;
 }
 
+.tab {
+  background-color: beige;
+}
 
 .text {
   text-align: center;
@@ -130,9 +133,17 @@ img {
 
 /* Small only */
 @media screen and (max-width: 39.9375em) {
+  .tab {
+    display: none;
+  }
 
-  
+  .SECTION-FIVE {
+    display: none;
+  }
 
+  .section-six {
+    display: none;
+  }
 
   .main-image {
     display: none;
