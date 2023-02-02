@@ -11,7 +11,7 @@ img {
 
 
 body{
- 
+ font-family: Arial, Helvetica, sans-serif;
  
 }
 
@@ -71,36 +71,22 @@ header {
   width: 50px;
   height: 20px;
   margin-bottom: 40px;
-  
-
 }
 
 .Metrolics{
   position: relative;
-  margin-top: 25px;
-  font-size: large;
-}
-
-.col {
+  font-size: 22px;
+  margin-top: 20%;
   
-  background-color: bisque;
-  font-family: Arial, Helvetica, sans-serif;
 }
-
-.col2 {
- 
-  background-color: bisque;
-}
-
-.column {
-  background-color: bisque;
-}
-
 
 .text {
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
- 
+  padding: 5%;
+}
+.text2 {
+  text-align: left;
+  padding-left: 10%;
 }
 
 img {
@@ -109,7 +95,8 @@ img {
 }
 
 .footer {
-  background-color: aquamarine;
+  background-color: rgb(54, 54, 131);
+  color: white;
 }
 
 .minionimg {
@@ -141,14 +128,9 @@ img {
 /* Small only */
 @media screen and (max-width: 39.9375em) {
 
-  
-
-
   .main-image {
     display: none;
   }
-
-
 
   .m-row-7 {
     grid-template-columns: repeat(1, 1fr);
