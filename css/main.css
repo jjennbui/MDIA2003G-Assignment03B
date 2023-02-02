@@ -112,6 +112,16 @@ img {
   background-color: aquamarine;
 }
 
+.minionimg {
+  width: 40rem;
+  height: 20rem;
+}
+.IMGcol {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .hamburger {
   position: relative;
   left: 200px;
