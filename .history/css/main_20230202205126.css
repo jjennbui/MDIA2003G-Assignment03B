@@ -113,20 +113,8 @@ font-size: 30px;
   border-width: 5px;
 }
 
-.setting{
-  border-color:rgb(193, 71, 71);
-  border-style: solid;
-  border-width: 5px;
-}
-
-.photo{
-  border-color: green;
-  border-style: solid;
-  border-width: 5px;
-}
-
-.bulb{
-  border-color:orange;
+.pen{
+  border-color:  rgb(81, 183, 242);
   border-style: solid;
   border-width: 5px;
 }
@@ -138,7 +126,7 @@ img {
 }
 
 .footer {
-  background-color: rgb(14, 27, 25);
+  background-color: rgb(54, 54, 131);
   color: white;
 }
 

@@ -108,29 +108,11 @@ font-size: 30px;
 }
 
 .pen{
-  border-color:  rgb(81, 183, 242);
+ 
+  border-color: aqua;
   border-style: solid;
   border-width: 5px;
 }
-
-.setting{
-  border-color:rgb(193, 71, 71);
-  border-style: solid;
-  border-width: 5px;
-}
-
-.photo{
-  border-color: green;
-  border-style: solid;
-  border-width: 5px;
-}
-
-.bulb{
-  border-color:orange;
-  border-style: solid;
-  border-width: 5px;
-}
-
 
 img {
   width: 8rem;
@@ -138,7 +120,7 @@ img {
 }
 
 .footer {
-  background-color: rgb(14, 27, 25);
+  background-color: rgb(54, 54, 131);
   color: white;
 }
 
