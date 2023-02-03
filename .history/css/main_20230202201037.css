@@ -11,7 +11,7 @@ img {
 
 
 body{
-  font-family: 'Ubuntu', sans-serif; 
+ font-family: Arial, Helvetica, sans-serif;
  
 }
 
@@ -61,7 +61,7 @@ header {
 .menu-bar{
   display: grid;
   text-align: left;
-  font-family: 'Ubuntu', sans-serif; 
+  font-family: Arial, Helvetica, sans-serif;
   justify-content: center;
 }
 
@@ -75,62 +75,22 @@ header {
 
 .Metrolics{
   position: relative;
-  font-size: 30px;
-  top: 90px;
+  font-size: 22px;
+  top: 95px;
   margin-right: 40px;
-  font-family: 'Ubuntu', sans-serif; 
-font-weight:550;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: medium;
   
-}
-
-.Welcome-Message{
-margin: -90PX;
-font-weight: 500;
-font-size: 30px;
-}
-
-.under-text{
-  position: relative;
-  bottom: 10px;
-  font-size: 12px;
-  color: gray;
-  line-height: 20px;
 }
 
 .text {
   text-align: center;
   padding: 5%;
-  font-family: 'Ubuntu', sans-serif; 
 }
 .text2 {
   text-align: left;
   padding-left: 10%;
 }
-
-.pen{
-  border-color:  rgb(81, 183, 242);
-  border-style: solid;
-  border-width: 5px;
-}
-
-.setting{
-  border-color:rgb(193, 71, 71);
-  border-style: solid;
-  border-width: 5px;
-}
-
-.photo{
-  border-color: green;
-  border-style: solid;
-  border-width: 5px;
-}
-
-.bulb{
-  border-color:orange;
-  border-style: solid;
-  border-width: 5px;
-}
-
 
 img {
   width: 8rem;
@@ -138,7 +98,7 @@ img {
 }
 
 .footer {
-  background-color: rgb(14, 27, 25);
+  background-color: rgb(54, 54, 131);
   color: white;
 }
 
